@@ -58,7 +58,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- CONFIG ---
-TOKEN = "8203606211:AAGNWwowtjnPMoI5uxo6Pt5j7a_5-srfCAo"
+TOKEN = "8203606211:AAEHvJWUbthM7MYBDC4dHH0V-Ct523H5S9g"
 ADMIN_ID = 7529580444
 DB_NAME = "nexus_bot.db"
 BINANCE_ID = "1129378736"
